@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2021<br>- 📚 I'm currently learning NextJS and its related stuff<br>- ⚡ In my free time, I spend time learning English and new programming skills.<br>- 🎯 Goals: landing a job as frontend developer in this year - Becoming a Senior Web Developer</p>
+<p align="left">- ✨ Creating bugs since 2021<br>- 📚 I'm currently learning NextJS and its related stuff<br>- ⚡ In my free time, I spend time learning English and new programming skills.<br>- 🎯 Goals: Becoming a Senior Web Developer</p>
 
 ###
 
