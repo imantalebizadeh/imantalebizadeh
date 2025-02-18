@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2020<br>- 📚 I currently develop my own side projects full stack using React and NextJS<br>- ⚡ In my spare time, I learn UI/UX Design and new programming skills</p>
+<p align="left">- ✨ Creating bugs since 2020<br>- 📚 I'm currently develop my own side projects full stack using React and NextJS<br>- ⚡ In my spare time, I learn UI/UX Design and new programming skills</p>
 
 ###
 
