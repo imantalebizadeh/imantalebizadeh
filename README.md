@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am a **Full Stack Developer** currently focused on building modern, end-to-end applications. my specialization lies in **Frontend** and crafting robust user interfaces.
+I am a **Full Stack Developer** currently focused on building modern, end-to-end applications. my specialization lies in **Frontend Engineering** and crafting robust user interfaces.
 
 ---
 
